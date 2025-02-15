@@ -31,10 +31,10 @@
 extern "C" {
 #endif
 
-#include <uuid/uuid.h>
+// #include <uuid/uuid.h>
 
 #include "asterisk/frame.h"
-#include "asterisk/uuid.h"
+// #include "asterisk/uuid.h"
 
 /*!
  * \brief Send the initial message to an AudioSocket server
